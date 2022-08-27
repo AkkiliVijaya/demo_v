@@ -1,2 +1,4 @@
 Externally added file to track the files
 add some changes , in git status it has to show as modified file
+third changes
+changed something here again
